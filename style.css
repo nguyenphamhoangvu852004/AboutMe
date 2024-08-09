@@ -280,7 +280,7 @@ body {
     }
 }
 
-@media (max-width: 480px) {
+/* @media (max-width: 480px) {
     .header {
         padding: 10px 5%;
     }
@@ -312,4 +312,4 @@ body {
         max-width: 100%;
         margin: 10px 0;
     }
-}
+} */

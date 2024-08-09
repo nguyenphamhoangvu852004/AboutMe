@@ -1,5 +1,5 @@
 var typed = new Typed(".multiple-text", {
-    strings: ["Frontend Developer", "Backend Developer"],
+    strings: ["Backend Developer", "Backend Developer"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { href: "https://www.youtube.com/channel/UC3mgi8-1r5pMCBPiY_Xsq4A", iconClass: "bx bxl-youtube", delay: 2 },
         { href: "https://www.tiktok.com/", iconClass: "bx bxl-tiktok", delay: 3 },
         { href: "https://github.com/nguyenphamhoangvu852004", iconClass: "bx bxl-github", delay: 4 },
-       
+
 
     ];
 
